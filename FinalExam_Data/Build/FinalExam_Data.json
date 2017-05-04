@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FinalExam_Data.data.unityweb",
+"asmCodeUrl": "FinalExam_Data.asm.code.unityweb",
+"asmMemoryUrl": "FinalExam_Data.asm.memory.unityweb",
+"asmFrameworkUrl": "FinalExam_Data.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
